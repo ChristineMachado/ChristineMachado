@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChristineMachado
+- 👋 Yellow! I’m @ChristineMachado
 - 👀 I’m interested in Web Design and Development
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on creating visual appealing website that helps at the same time!
