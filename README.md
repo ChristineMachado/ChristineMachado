@@ -1,6 +1,6 @@
 - 👋 Yellow! I’m @ChristineMachado
 - 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on creating visual appealing website that helps at the same time!
 - 📫 How to reach me via email: christinejmachado@gmail.com
 - 😄 Pronouns: I don't do pronouns, just assume my gender based on my name lol I don't really care what you assume. 
